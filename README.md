@@ -1,2 +1,5 @@
 # Dynamic-Resume-Builder
-A Dynamic Resume Builder created with HTML, CSS, JavaScript, and TypeScript, allowing users to customize resumes with real-time preview. Features include text formatting, profile picture upload, and responsive design.
+Milestone 3: Dynamic Resume Builder 
+Create a form to capture user input for Personal Information (Name, Email, etc.), Education, Work Experience, and Skills. The resume will be generated dynamically based on the provided input, streamlining the creation process and enhancing user engagement.
+
+
